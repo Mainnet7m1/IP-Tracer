@@ -38,4 +38,4 @@ IP-Tracer is used to track an ip address. IP-Tracer is developed for Termux and 
 
 * `ip-tracer` for more information.
 
-**This project is not actively maintained.**
+**This project is not actively maintained.** defaults
